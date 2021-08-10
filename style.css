@@ -1,0 +1,36 @@
+  h1 {
+    color: rgb(0, 0, 0);
+  }
+  .header {
+    background-color: rgb(209, 246, 217);
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .footer{
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  body
+  {
+    background-color:rgb(255, 139, 149);
+    background-image: url("coding.png");
+    background-repeat:space;
+    border-style:double;
+    margin-bottom: 200px;
+    padding-top: 200px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1.5;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
